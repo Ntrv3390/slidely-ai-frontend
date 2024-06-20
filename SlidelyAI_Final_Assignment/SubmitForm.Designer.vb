@@ -66,6 +66,7 @@ Partial Class SubmitForm
         name_input.Name = "name_input"
         name_input.Size = New Size(471, 34)
         name_input.TabIndex = 3
+        name_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' email
         ' 
@@ -85,6 +86,7 @@ Partial Class SubmitForm
         email_input.Name = "email_input"
         email_input.Size = New Size(471, 34)
         email_input.TabIndex = 5
+        email_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' number
         ' 
@@ -104,6 +106,7 @@ Partial Class SubmitForm
         number_input.Name = "number_input"
         number_input.Size = New Size(471, 34)
         number_input.TabIndex = 7
+        number_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' githublink
         ' 
@@ -123,6 +126,7 @@ Partial Class SubmitForm
         github_link_input.Name = "github_link_input"
         github_link_input.Size = New Size(471, 34)
         github_link_input.TabIndex = 9
+        github_link_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' submit_btn
         ' 
@@ -165,7 +169,7 @@ Partial Class SubmitForm
         ' loading_label_submit
         ' 
         loading_label_submit.AutoSize = True
-        loading_label_submit.Font = New Font("Microsoft Sans Serif", 12.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        loading_label_submit.Font = New Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         loading_label_submit.Location = New Point(328, 85)
         loading_label_submit.Name = "loading_label_submit"
         loading_label_submit.Size = New Size(82, 25)
@@ -174,7 +178,7 @@ Partial Class SubmitForm
         ' 
         ' SubmitForm
         ' 
-        AutoScaleDimensions = New SizeF(8.0F, 20.0F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(689, 693)
         Controls.Add(loading_label_submit)

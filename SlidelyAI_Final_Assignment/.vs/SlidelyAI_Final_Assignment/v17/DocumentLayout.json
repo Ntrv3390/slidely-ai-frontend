@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{465A36B1-B8B4-446F-8463-0E63BA3B1848}|SlidelyAI_Final_Assignment.vbproj|c:\\slidelyai\\frontend\\slidelyai_final_assignment\\viewform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{465A36B1-B8B4-446F-8463-0E63BA3B1848}|SlidelyAI_Final_Assignment.vbproj|solutionrelative:viewform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465A36B1-B8B4-446F-8463-0E63BA3B1848}|SlidelyAI_Final_Assignment.vbproj|c:\\slidelyai\\frontend\\slidelyai_final_assignment\\submitform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{465A36B1-B8B4-446F-8463-0E63BA3B1848}|SlidelyAI_Final_Assignment.vbproj|solutionrelative:submitform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubmitForm.vb [Design]",
+              "DocumentMoniker": "C:\\slidelyAI\\frontend\\SlidelyAI_Final_Assignment\\SubmitForm.vb",
+              "RelativeDocumentMoniker": "SubmitForm.vb",
+              "ToolTip": "C:\\slidelyAI\\frontend\\SlidelyAI_Final_Assignment\\SubmitForm.vb [Design]",
+              "RelativeToolTip": "SubmitForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:48:59.492Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
