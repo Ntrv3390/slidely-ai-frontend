@@ -20,3 +20,4 @@ C:\slidelyAI\frontend\SlidelyAI_Final_Assignment\obj\Debug\net8.0-windows\ref\Sl
 C:\slidelyAI\frontend\SlidelyAI_Final_Assignment\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\slidelyAI\frontend\SlidelyAI_Final_Assignment\obj\Debug\net8.0-windows\SlidelyAI_Final_Assignment.vbproj.AssemblyReference.cache
 C:\slidelyAI\frontend\SlidelyAI_Final_Assignment\obj\Debug\net8.0-windows\SlidelyA.1377B201.Up2Date
+C:\slidelyAI\frontend\SlidelyAI_Final_Assignment\obj\Debug\net8.0-windows\SlidelyAI_Final_Assignment.sourcelink.json

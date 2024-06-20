@@ -112,6 +112,7 @@ Partial Class ViewForm
         stopwatch_view_input.ReadOnly = True
         stopwatch_view_input.Size = New Size(471, 34)
         stopwatch_view_input.TabIndex = 22
+        stopwatch_view_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' stopwatch_time
         ' 
@@ -147,6 +148,7 @@ Partial Class ViewForm
         github_view_input.ReadOnly = True
         github_view_input.Size = New Size(471, 34)
         github_view_input.TabIndex = 30
+        github_view_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' Label1
         ' 
@@ -167,6 +169,7 @@ Partial Class ViewForm
         number_view_input.ReadOnly = True
         number_view_input.Size = New Size(471, 34)
         number_view_input.TabIndex = 28
+        number_view_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' Label2
         ' 
@@ -187,6 +190,7 @@ Partial Class ViewForm
         email_view_input.ReadOnly = True
         email_view_input.Size = New Size(471, 34)
         email_view_input.TabIndex = 26
+        email_view_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' Label3
         ' 
@@ -207,6 +211,7 @@ Partial Class ViewForm
         name_view_input.ReadOnly = True
         name_view_input.Size = New Size(471, 34)
         name_view_input.TabIndex = 24
+        name_view_input.TextAlign = HorizontalAlignment.Center
         ' 
         ' Label4
         ' 

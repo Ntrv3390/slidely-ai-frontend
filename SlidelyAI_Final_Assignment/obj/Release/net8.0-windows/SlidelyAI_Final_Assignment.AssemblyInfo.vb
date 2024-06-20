@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SlidelyAI_Final_Assignment"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e6144f1b238c4a55b10d3ce8702c2c7a7a285b0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SlidelyAI_Final_Assignment"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SlidelyAI_Final_Assignment"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
