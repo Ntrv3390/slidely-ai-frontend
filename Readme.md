@@ -11,7 +11,7 @@ Make sure you have latest version of Microsoft Visual Studio, if you don't have 
 
 After installing the Visual Studio IDE, open this folder in it and run it.
 
-### Folder structure
+### App structure
 
 This project has basically 3 pages:
 1) Front page
